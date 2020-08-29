@@ -2,8 +2,8 @@
 <h3 align="center">Soy un Estudiante de Ingeniería, apasionado por el desarrollo web y móvil 👨🏽‍💻</h3>
 
 - 🔭 En busca de nuevos desafios. :mag_right:
-- 🌱 Actualmete estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)
-- 👨🏽‍💻 Trabajar con ** JavaScript, Vue.js, Loopback4, MongoDB ** y ** APIREST **.
+- 🌱 Actualmente estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)n
+- 👨🏽‍💻 Trabajar con **JavaScript, Vue.js, Loopback4, MongoDB** y **APIREST**.
 - 😄 Pronombres: él / él.
 - ⚡ Gustos Personales **tu sonrisa bb :3**
 
@@ -162,7 +162,7 @@
 
 <p align="center">
 <a href="https://twitter.com/@kevinoz_gf" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="@kevinoz_gf" /></a> |
-<a href="https://linkedin.com/in/kevin figueroa" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="kevin figueroa" /></a>
+<a href="https://www.linkedin.com/in/lord-figueroa/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="kevin figueroa" /></a>
 </p>
 
  <p align = 'center'>
