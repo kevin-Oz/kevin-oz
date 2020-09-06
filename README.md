@@ -2,8 +2,8 @@
 <h3 align="center">Soy un Estudiante de Ingeniería, apasionado por el desarrollo web y móvil 👨🏽‍💻</h3>
 
 - 🔭 En busca de nuevos desafios. :mag_right:
-- 🌱 Actualmente estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)n
-- 👨🏽‍💻 Trabajar con **JavaScript, Vue.js, Loopback4, MongoDB** y **APIREST**.
+- 🌱 Actualmente estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)
+- 👨🏽‍💻 Trabajar con **JavaScript, Vue.js, Java MongoDB Mysql** y **APIREST**.
 - 😄 Pronombres: él / él.
 - ⚡ Gustos Personales **tu sonrisa bb :3**
 
@@ -24,12 +24,12 @@
       <td width = "25%" align = "center">
         <span> Mysql </span> <br>
         <span> Nivel: Alto </span> <br> <br>
-        <img height = "64px" alt="mysql" src = "https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg">
+        <img height = "64px" alt="mysql" src = "https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width = "25%" align = "center">
         <span> MongoDB</span> <br>
         <span> Nivel: bajo </span> <br> <br>
-        <img height = "64px" alt="mongodb" src = "https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg">
+        <img height = "64px" alt="mongodb" src = "https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
         <td width = "25%" align = "center">
         <span> CouchDB</span> <br>
@@ -37,9 +37,9 @@
         <img height = "64px" alt="couchdb" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg">
       </td>
       <td width = "25%" align = "center">
-        <span> Postgres </span> <br>
+        <span> Postgresql </span> <br>
         <span> Nivel: alto </span> <br> <br>
-        <img height = "64px" alt="postgresql" src = "https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg">
+        <img height = "64px" alt="postgresql" src = "https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
     </tr> <tr valign = "top">
       <td width = "100%" colspan = "4" align = "center">
@@ -50,12 +50,12 @@
       <td width = "25%" align = "center">
         <span> Java </span> <br>
         <span> Nivel: alto </span> <br> <br>
-        <img height = "64px" src = "https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg">
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width = "25%" align = "center">
         <span> Javascript </span> <br>
         <span> Nivel: medio </span> <br> <br>
-        <img height = "64px" src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg">
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width = "25%" align = "center">
         <span>Typescript </span> <br>
@@ -84,22 +84,22 @@
       <td width = "25%" align = "center">
         <span> Angular </span> <br>
         <span> Nivel: medio </span> <br> <br>
-        <img height = "64px" alt="mysql" src = "https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg">
+        <img height = "64px" alt="angular" src = "https://cdn.svgporn.com/logos/angular-icon.svg">
       </td>
       <td width = "25%" align = "center">
         <span> VueJs </span> <br>
         <span> Nivel: alto </span> <br> <br>
-        <img height = "64px" alt="mongodb" src = "https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg">
+        <img height = "64px" alt="vue" src = "https://cdn.svgporn.com/logos/vue.svg">
       </td>
         <td width = "25%" align = "center">
-        <span> Modejs</span> <br>
+        <span> Nodejs</span> <br>
         <span> Nivel: medio </span> <br> <br>
-        <img height = "64px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs">
+        <img height = "64px" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="nodejs">
       </td> 
       <td width = "25%" align = "center">
         <span> Boostrap</span> <br>
         <span> Nivel: Alto </span> <br> <br>
-        <img height = "64px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" >
+        <img height = "64px" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="bootstrap" >
       </td>
        <td width = "25%" align = "center">
         <span> Materialize</span> <br>
@@ -116,7 +116,7 @@
       <td width = "25%" align = "center">
         <span> Docker </span> <br>
         <span> Nivel: Alto </span> <br> <br>
-        <img height = "64px" src = "https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker">
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker">
       </td>
       <td width = "25%" align = "center">
         <span> Kubernetes </span> <br>
@@ -126,7 +126,7 @@
         <td width = "25%" align = "center">
         <span> Bash </span> <br>
         <span> Nivel: medio </span> <br> <br>
-        <img height = "64px" alt="bash sh" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+        <img height = "64px" alt="bash sh" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
          <td width = "25%" align = "center">
         <span> Git </span> <br>
@@ -138,7 +138,7 @@
           <td width = "25%" align = "center">
         <span> GNU/linux </span> <br>
         <span> Nivel: alto </span> <br> <br>
-        <img height = "64px"  src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux">
+        <img height = "64px"  src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="linux">
       </td> 
       <td width = "25%" align = "center">
         <span> Apache </span> <br>
@@ -148,7 +148,7 @@
            <td width = "25%" align = "center">
         <span> Nginx </span> <br>
         <span> Nivel: medio </span> <br> <br>
-        <img height = "64px" src = "https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx">
+        <img height = "64px" src = "https://cdn.svgporn.com/logos/nginx.svg" alt="nginx">
       </td>
     </tr>
     
