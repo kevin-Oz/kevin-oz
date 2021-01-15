@@ -5,7 +5,6 @@
 - 🌱 Actualmente estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)
 - 👨🏽‍💻 Trabajar con **JavaScript, Vue.js, Java MongoDB Mysql** y **APIREST**.
 - 😄 Pronombres: él / él.
-- ⚡ Gustos Personales **tu sonrisa bb :3**
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-oz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kevin-oz&show_icons=true&theme=dark)
