@@ -4,8 +4,8 @@
 <h3 align="center">Soy un Estudiante de Ingeniería, apasionado por el desarrollo web y móvil 👨🏽‍💻</h3>
 
 - 🔭 En busca de nuevos desafios. :mag_right:
-- 🌱 Actualmente estoy aprendiendo [Flutter](https://flutter.dev/) y [ionic](https://ionicframework.com/)
-- 👨🏽‍💻 Trabajar con **JavaScript, Vue.js, Java MongoDB Mysql** y **APIREST**.
+- 🌱 Aprendiendo  [react](https://reactjs.org/)
+- 👨🏽‍💻Actualmente Trabajo con **JavaScript, React, Laravel Mysql**.
 - 😄 Pronombres: él / él.
 
 
